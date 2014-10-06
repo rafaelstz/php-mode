@@ -5,6 +5,7 @@
             highlighter: "ace/mode/php",
             extensions: [
                 "php",
+                "phtml",
                 "php4"
             ],
             completionTriggers: ["->", "\\", "::"],
